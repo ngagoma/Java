@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Sandbox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlfredBot.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Basics.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
