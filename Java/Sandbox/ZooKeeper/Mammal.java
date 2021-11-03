@@ -1,4 +1,5 @@
 
+
 public class Mammal {
 	int energyLevel = 100;
 
